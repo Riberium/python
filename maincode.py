@@ -1,7 +1,4 @@
-123
-456
-789
-67
-78
-
-あいうえお
+sum
+exit
+Exception
+bool
