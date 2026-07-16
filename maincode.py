@@ -1,4 +1,4 @@
-123
-456
-789
-67
+sum
+exit
+Exception
+bool
